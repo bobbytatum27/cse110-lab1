@@ -1,20 +1,25 @@
-# Who am I?
-## I'm not sure why you're here, but since you are, here's some stuff about me. 
+# Robert "Bobby" Tatum
+## Some stuff about me...
+
 ### Outline
 1. Location
 2. Sports 
 3. Programming and Such
 
 #### Location
-I live here: ![Earth](https://cdn.mos.cms.futurecdn.net/3upZx2gxxLpW7MBbnKYQLH-1200-80.jpg)
+I live here:
+
+![Earth](https://cdn.mos.cms.futurecdn.net/3upZx2gxxLpW7MBbnKYQLH-1200-80.jpg)
 
 #### Sports
+
 ##### Basketball
 I've played basketball my whole life, and it's by far my favorite sport. If you ask *me* if I'm good, I'd tell you yes.
 But if you ask *my brother*, he might not say the same. In reality, I'd say this quote from Dave Barry sums up my game
 the best: 
 > I haven't been able to slam-dunk the basetball for the past 5 years. Or, for the thirty-eight years before that,
 > either."
+
 ###### My favorite players
 - Lebron James
 - James Harden
