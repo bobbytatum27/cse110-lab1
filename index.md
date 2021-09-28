@@ -45,3 +45,5 @@ Since you've read so much about me, here's my current to-dos for this week.
 - [x] Grocery Shop
 - [ ] Update Resume
 - [x] Add classes to calendar
+
+And [here's some useful links](useful-links.md) that I use, and that I'm now sharing to you. 
