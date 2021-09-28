@@ -41,7 +41,7 @@ Here's a piece of python code I like: `a='a=%r;print (a%%a)';print (a%a)` Can  y
 #### Bonus Section!!!
 Since you've read so much about me, here's my current to-dos for this week.
 
-- [ ] Get a haircut
-- [x] Grocery Shop
-- [ ] Update Resume
-- [x] Add classes to calendar
+[ ] Get a haircut
+[x] Grocery Shop
+[ ] Update Resume
+[x] Add classes to calendar
