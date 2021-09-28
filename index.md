@@ -33,7 +33,7 @@ Stadium](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/u
 If this were a real game, I'd be in the rafters, cause I'm not swimming in cash to spend on a yankees game.
 
 #### Programming and Such
-I like C++ and Python. Not particularly javascript. But all the projects I do often end up being javascript. Oh well.
+I like C++ and Python. Not particularly javascript. But all the projects I do often end up being javascript...Oh well.
 
 Here's a piece of python code I like: `a='a=%r;print (a%%a)';print (a%a)` Can  you tell why it's special?
 [Here's a hint.](https://en.wikipedia.org/wiki/Quine_\(computing\))
