@@ -3,7 +3,7 @@
 
 ### Outline
 1. [Location](https://bobbytatum27.github.io/cse110-lab1/#Location)
-2. [Sports] (https://bobbytatum27.github.io/cse110-lab1/#sports)
+2. [Sports](https://bobbytatum27.github.io/cse110-lab1/#sports)
 3. [Programming and Such](https://bobbytatum27.github.io/cse110-lab1/#programming-and-such)
 
 #### Location
